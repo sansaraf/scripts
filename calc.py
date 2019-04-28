@@ -14,5 +14,5 @@ def multiply(x,y):
 
 print "Branch"
 def divide(x,y):
-    return x/y
+    return x-y
 
